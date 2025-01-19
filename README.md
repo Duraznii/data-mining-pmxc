@@ -22,13 +22,13 @@ Data mining from a cloud management dashboard platform of internet wireless acce
 # Successful HTTP Status: 200
 # [
 # {
-# "description": "Hayg's Nexus 5",
-# "mdnsName": "Hayg's Nexus 5",
-# "dhcpHostname": "HaygNexus5",
-# "usage": {"sent": 1337.0, "recv": 7331.0},
-# "mac": "00:18:D3:AD:B3:3F",
+# "description": "Description's Nexus 5",
+# "mdnsName": "Name's Nexus 5",
+# "dhcpHostname": "NameNexus5",
+# "usage": {"sent": 0000.0, "recv": 0000.0},
+# "mac": "00:00:X0:YY:Z0:W0",
 # "ip": "1.2.3.4",
-# "id": "lk12uq",
+# "id": "xx12yy",
 # "switchport": null
 # },
 # ...
